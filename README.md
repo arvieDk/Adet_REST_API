@@ -1,5 +1,5 @@
 # Adet_REST_API
-This repository is for the GROUP Activity REST API and implementing multi-client support. \n
+This repository is for the GROUP Activity REST API and implementing multi-client support.
 
 System Lead: Rivera, Arvie G. 
 
