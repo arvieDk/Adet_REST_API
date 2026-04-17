@@ -8,4 +8,7 @@ Bejer, Jancel A.
 Brutas, Joemar Ammiel B.
 Peñafiel, Geoff Larenz M.
 
+**Xampp Ports**
 
+**Apache ports:** 80 and 443,
+**MySQL port:** 5222
